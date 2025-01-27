@@ -1,4 +1,5 @@
 # Resume
 Here is 
-[Ricardo's Resume ][Ricardo's resume (GitHub).pdf](https://github.com/user-attachments/files/18390566/Ricardo.s.resume.GitHub.pdf)
+[Ricardo Blackwood's IT Resume Git.pdf](https://github.com/user-attachments/files/18553367/Ricardo.Blackwood.s.IT.Resume.Git.pdf)
+
 
